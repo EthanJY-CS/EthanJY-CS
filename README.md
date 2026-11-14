@@ -12,8 +12,6 @@
 </h1>
 </div>
 
----
-
 
 ### :man_technologist: About Me:
 
