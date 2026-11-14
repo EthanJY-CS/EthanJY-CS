@@ -12,8 +12,6 @@
 </h1>
 </div>
 
-![LinkedIn Banner](https://user-images.githubusercontent.com/78024243/169668772-d4a8d04c-faaa-4bc9-bb64-fc9d6762bfe8.png)
-
 ---
 
 
