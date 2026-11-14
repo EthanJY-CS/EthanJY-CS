@@ -21,7 +21,7 @@
 
 - 👋 Hi, I’m Ethan Young
 - 👀 I’m interested in Data Science and Machine learning. Passionate with the gym and football, and also own a pug.
-- 🌱 I’m currently learning Data Science and Machine learning with AICore
+- 🌱 I’m an AI & Data Science Lead
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ethan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-young-cs/)
 
 ---
